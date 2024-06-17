@@ -23,7 +23,7 @@ Hi! I'm a passionate on-chain data and research analyst. I have worked on variou
   <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/AVAIL.png" alt="AVAIL" width="50" height="50">
 </a>
 <a href="https://babylonchain.io/">
-  <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/BABYLON.png" alt="Babylon" width="50" height="50">
+  <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/BABYLON.jpg" alt="Babylon" width="50" height="50">
 </a>
 <a href="https://dymension.xyz/">
   <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/DYM.png" alt="Dymension" width="50" height="50">
