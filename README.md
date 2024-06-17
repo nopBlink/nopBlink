@@ -16,6 +16,18 @@ Hi! I'm a passionate on-chain data and research analyst. I have worked on variou
 <a href="https://aleo.org/">
   <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/ALEO.png" alt="ALEO" width="50" height="50">
 </a>
+<a href="https://www.arkhamintelligence.com/">
+  <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/ARKM.png" alt="ARKHAM" width="50" height="50">
+</a>
+<a href="https://www.availproject.org/">
+  <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/AVAIL.png" alt="AVAIL" width="50" height="50">
+</a>
+<a href="https://babylonchain.io/">
+  <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/BABYLON.png" alt="Babylon" width="50" height="50">
+</a>
+<a href="https://dymension.xyz/">
+  <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/DYM.png" alt="Dymension" width="50" height="50">
+</a>
 
 ### Skills
 
