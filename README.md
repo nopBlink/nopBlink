@@ -1,7 +1,7 @@
 ### Hello there 👋 
   
-<a href="mailto:mainblnk@protonmail.com" target="_blank">
-<img src="https://img.shields.io/badge/mainblnk@protonmail.com-purple?style=flat-roundedrectangle&logo=Gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<a href="mailto:nopblinked@protonmail.com" target="_blank"> 
+<img src="https://img.shields.io/badge/nopblinked@protonmail.com-purple?style=flat-roundedrectangle&logo=Gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 
 <!--
 **nopBlink/nopBlink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
