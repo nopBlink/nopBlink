@@ -4,14 +4,18 @@ Hi! I'm a passionate on-chain data and research analyst. I have worked on variou
 
 ### Featured Projects
 
-<a 
-[![AEVO](https://github.com/nopBlink/nopBlink/blob/main/Icons/AEVO.png)](https://www.aevo.xyz/)
-[![Altlayer](https://github.com/nopBlink/nopBlink/blob/main/Icons/ALT.png)](https://www.altlayer.io/)
-[![Arbitrum](https://github.com/nopBlink/nopBlink/blob/main/Icons/ARB.png)](https://arbitrum.io/)
-[![ALEO](https://github.com/nopBlink/nopBlink/blob/main/Icons/ALEO.PNG)](https://aleo.org/)
-[![LinkedIn](https://via.placeholder.com/50)](https://github.com/username/project3)
-[![Twitter](https://via.placeholder.com/50)](https://github.com/username/project3)
-width="50" height="50"></a>
+<a href="https://www.aevo.xyz/">
+  <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/AEVO.png" alt="AEVO" width="50" height="50">
+</a>
+<a href="https://www.altlayer.io/">
+  <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/ALT.png" alt="Altlayer" width="50" height="50">
+</a>
+<a href="https://arbitrum.io/">
+  <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/ARB.png" alt="Arbitrum" width="50" height="50">
+</a>
+<a href="https://aleo.org/">
+  <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/ALEO.PNG" alt="ALEO" width="50" height="50">
+</a>
 
 ### Skills
 
