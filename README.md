@@ -4,12 +4,14 @@ Hi! I'm a passionate on-chain data and research analyst. I have worked on variou
 
 ### Featured Projects
 
+<a 
 [![AEVO](https://github.com/nopBlink/nopBlink/blob/main/Icons/AEVO.png)](https://www.aevo.xyz/)
-[![Twitter](https://via.placeholder.com/50)](https://github.com/username/project3)
+[![Altlayer](https://github.com/nopBlink/nopBlink/blob/main/Icons/ALT.png)](https://www.altlayer.io/)
+[![Arbitrum](https://github.com/nopBlink/nopBlink/blob/main/Icons/ARB.png)](https://arbitrum.io/)
+[![ALEO](https://github.com/nopBlink/nopBlink/blob/main/Icons/ALEO.PNG)](https://aleo.org/)
 [![LinkedIn](https://via.placeholder.com/50)](https://github.com/username/project3)
 [![Twitter](https://via.placeholder.com/50)](https://github.com/username/project3)
-[![LinkedIn](https://via.placeholder.com/50)](https://github.com/username/project3)
-[![Twitter](https://via.placeholder.com/50)](https://github.com/username/project3)
+width="50" height="50"></a>
 
 ### Skills
 
