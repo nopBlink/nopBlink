@@ -14,7 +14,7 @@ Hi! I'm a passionate on-chain data and research analyst. I have worked on variou
   <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/ARB.png" alt="Arbitrum" width="50" height="50">
 </a>
 <a href="https://aleo.org/">
-  <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/ALEO.PNG" alt="ALEO" width="50" height="50">
+  <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/ALEO.png" alt="ALEO" width="50" height="50">
 </a>
 
 ### Skills
