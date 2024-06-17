@@ -4,12 +4,12 @@ Hi! I'm a passionate on-chain data and research analyst. I have worked on variou
 
 ### Featured Projects
 
-[![LinkedIn](https://via.placeholder.com/50)](https://github.com/username/project3))
-[![Twitter](https://via.placeholder.com/50)](https://github.com/username/project3))
-[![LinkedIn](https://via.placeholder.com/50)](https://github.com/username/project3))
-[![Twitter](https://via.placeholder.com/50)](https://github.com/username/project3))
-[![LinkedIn](https://via.placeholder.com/50)](https://github.com/username/project3))
-[![Twitter](https://via.placeholder.com/50)](https://github.com/username/project3))
+[![LinkedIn](https://via.placeholder.com/50)](https://github.com/username/project3)
+[![Twitter](https://via.placeholder.com/50)](https://github.com/username/project3)
+[![LinkedIn](https://via.placeholder.com/50)](https://github.com/username/project3)
+[![Twitter](https://via.placeholder.com/50)](https://github.com/username/project3)
+[![LinkedIn](https://via.placeholder.com/50)](https://github.com/username/project3)
+[![Twitter](https://via.placeholder.com/50)](https://github.com/username/project3)
 
 ### Skills
 
