@@ -1,8 +1,6 @@
 ### Hello there 👋 
-  
-### About Me
 
-Hi! I'm [Your Name], a passionate on-chain data and research analyst. I have worked on various projects within the blockchain space, applying my analytical skills to derive insights and contribute to the development of the ecosystem.
+Hi! I'm a passionate on-chain data and research analyst. I have worked on various projects within the blockchain space, applying my analytical skills to derive insights and contribute to the development of the ecosystem.
 
 ### Featured Projects
 
