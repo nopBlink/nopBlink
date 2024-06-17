@@ -10,7 +10,7 @@ Hi! I'm a passionate on-chain data and research analyst. I have worked on variou
 ### Skills
 
 - On-chain data analysis
-- Python and R for data analysis
+- Python for data analysis
 - SQL and databases
 - Data visualization (Tableau, Power BI)
 - Blockchain and DLT technologies
