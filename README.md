@@ -55,7 +55,7 @@ Hi! I'm a on-chain data and research analyst. I have worked on various projects 
 <a href="https://zksync.io/" target="_blank">
   <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/ZK.png" alt="ZkSync" width="50" height="50">
 </a>
-<a href="https://layerzeroscan.com/" target="_blank">
+<a href="https://layerzero.network/" target="_blank">
   <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/ZRO.png" alt="LayerZero" width="50" height="50">
 </a>
 
