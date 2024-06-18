@@ -46,9 +46,6 @@ Hi! I'm a passionate on-chain data and research analyst. I have worked on variou
 <a href="https://celestia.org/">
   <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/TIA.png" alt="Celestia" width="50" height="50">
 </a>
-<a href="https://penumbra.zone/">
-  <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/UM.png" alt="Penumbra" width="50" height="50">
-</a>
 <a href="https://www.zetachain.com/">
   <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/ZETA.png" alt="ZetaChain" width="50" height="50">
 </a>
@@ -72,7 +69,10 @@ Hi! I'm a passionate on-chain data and research analyst. I have worked on variou
   <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/FUEL.png" alt="FUEL" width="50" height="50">
 </a>
 <a href="https://polyverse.polymerlabs.org/">
-  <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/POLY.png" alt="Polymer" width="50" height="50">
+  <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/POLY.jpg" alt="Polymer" width="50" height="50">
+</a>
+<a href="https://penumbra.zone/">
+  <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/UM.png" alt="Penumbra" width="50" height="50">
 </a>
 <a href="https://tea.xyz/">
   <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/tea.jpg" alt="tea" width="50" height="50">
