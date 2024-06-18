@@ -84,9 +84,11 @@ Hi! I'm a on-chain data and research analyst. I have worked on various projects 
 
 - On-chain data analysis
 - Python for data analysis
+- Machine Learning
 - SQL and databases
 - Data visualization (Tableau, Power BI)
 - Blockchain and DLT technologies
+- Javascript, CSS & HTML basics
 
 ### Contact
 
