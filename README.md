@@ -86,9 +86,7 @@ Hi! I'm a on-chain data and research analyst. I have worked on various projects 
 - Python for data analysis
 - Machine Learning
 - SQL and databases
-- Data visualization (Tableau, Power BI)
 - Blockchain and DLT technologies
-- Javascript, CSS & HTML basics
 
 ### Contact
 
@@ -96,6 +94,10 @@ Hi! I'm a on-chain data and research analyst. I have worked on various projects 
 <img src="https://img.shields.io/badge/nopblinked@protonmail.com-purple?style=flat-roundedrectangle&logo=Gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 
 <!--
+
+- Data visualization (Tableau, Power BI)
+- Javascript, CSS & HTML basics
+
 **nopBlink/nopBlink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
