@@ -28,7 +28,7 @@ Hi! I'm a on-chain data and research analyst. I have worked on various projects 
 <a href="https://gameswift.io/" target="_blank">
   <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/GSWIFT.png" alt="GSWIFT" width="50" height="50">
 </a>
-<a href="https://jup.ag/" target="_blank">
+<a href="https://station.jup.ag/" target="_blank">
   <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/JUP.png" alt="Jupiter" width="50" height="50">
 </a>
 <a href="https://omni.network/" target="_blank">
