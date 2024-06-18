@@ -4,59 +4,58 @@ Hi! I'm a on-chain data and research analyst. I have worked on various projects 
 
 ### Featured Testnet/Mainnet Participations
 
-<a href="https://www.aevo.xyz/">
+<a href="https://www.aevo.xyz/" target="_blank">
   <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/AEVO.png" alt="AEVO" width="50" height="50">
 </a>
-<a href="https://www.altlayer.io/">
+<a href="https://www.altlayer.io/" target="_blank">
   <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/ALT.png" alt="Altlayer" width="50" height="50">
 </a>
-<a href="https://arbitrum.io/">
+<a href="https://arbitrum.io/" target="_blank">
   <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/ARB.png" alt="Arbitrum" width="50" height="50">
 </a>
-<a href="https://www.arkhamintelligence.com/">
+<a href="https://www.arkhamintelligence.com/" target="_blank">
   <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/ARKM.png" alt="ARKHAM" width="50" height="50">
 </a>
-<a href="https://babylonchain.io/">
+<a href="https://babylonchain.io/" target="_blank">
   <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/BABYLON.jpg" alt="Babylon" width="50" height="50">
 </a>
-<a href="https://dymension.xyz/">
+<a href="https://dymension.xyz/" target="_blank">
   <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/DYM.png" alt="Dymension" width="50" height="50">
 </a>
-<a href="https://www.eigenlayer.xyz/">
+<a href="https://www.eigenlayer.xyz/" target="_blank">
   <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/EIGEN.png" alt="EIGEN" width="50" height="50">
 </a>
-<a href="https://gameswift.io/">
+<a href="https://gameswift.io/" target="_blank">
   <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/GSWIFT.png" alt="GSWIFT" width="50" height="50">
 </a>
-<a href="https://jup.ag/">
+<a href="https://jup.ag/" target="_blank">
   <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/JUP.png" alt="Jupiter" width="50" height="50">
 </a>
-<a href="https://omni.network/">
+<a href="https://omni.network/" target="_blank">
   <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/OMNI.png" alt="Omni" width="50" height="50">
 </a>
-<a href="https://www.polyhedra.network/">
+<a href="https://www.polyhedra.network/" target="_blank">
   <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/ZKJ.png" alt="Polyhedra" width="50" height="50">
 </a>
-<a href="https://www.sei.io/">
+<a href="https://www.sei.io/" target="_blank">
   <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/SEI.png" alt="SEI" width="50" height="50">
 </a>
-<a href="https://sui.io/">
+<a href="https://sui.io/" target="_blank">
   <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/SUI.png" alt="SUI" width="50" height="50">
 </a>
-<a href="https://taiko.xyz/">
+<a href="https://taiko.xyz/" target="_blank">
   <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/TAIKO.png" alt="Taiko" width="50" height="50">
 </a>
-<a href="https://celestia.org/">
+<a href="https://celestia.org/" target="_blank">
   <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/TIA.png" alt="Celestia" width="50" height="50">
 </a>
-<a href="https://www.zetachain.com/">
+<a href="https://www.zetachain.com/" target="_blank">
   <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/ZETA.png" alt="ZetaChain" width="50" height="50">
 </a>
-<a href="https://zksync.io/">
+<a href="https://zksync.io/" target="_blank">
   <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/ZK.png" alt="ZkSync" width="50" height="50">
 </a>
-</a>
-<a href="https://layerzeroscan.com/">
+<a href="https://layerzeroscan.com/" target="_blank">
   <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/ZRO.png" alt="LayerZero" width="50" height="50">
 </a>
 
