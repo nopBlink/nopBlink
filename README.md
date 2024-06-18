@@ -35,7 +35,7 @@ Hi! I'm a passionate on-chain data and research analyst. I have worked on variou
   <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/OMNI.png" alt="Omni" width="50" height="50">
 </a>
 <a href="https://www.polyhedra.network/">
-  <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/POLY.png" alt="Polyhedra" width="50" height="50">
+  <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/ZKJ.png" alt="Polyhedra" width="50" height="50">
 </a>
 <a href="https://www.sei.io/">
   <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/SEI.png" alt="SEI" width="50" height="50">
