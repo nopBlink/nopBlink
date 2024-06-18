@@ -57,7 +57,7 @@ Hi! I'm a passionate on-chain data and research analyst. I have worked on variou
   <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/ZRO.png" alt="LayerZero" width="50" height="50">
 </a>
 
-### Featured Contributions
+### Contributions
 
 <a href="https://aleo.org/">
   <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/ALEO.png" alt="ALEO" width="50" height="50">
