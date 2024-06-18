@@ -87,7 +87,7 @@ Hi! I'm a on-chain data and research analyst. I have worked on various projects 
 - Machine Learning
 - SQL and databases
 - Blockchain and DLT technologies
-- VPS and Node setup
+- VPS and Node run
 
 ### Contact
 
