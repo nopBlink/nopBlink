@@ -2,7 +2,7 @@
 
 Hi! I'm a passionate on-chain data and research analyst. I have worked on various projects within the blockchain space, applying my analytical skills to derive insights and contribute to the development of the ecosystem.
 
-### Featured Testnet Participations
+### Featured Testnet/Mainnet Participations
 
 <a href="https://www.aevo.xyz/">
   <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/AEVO.png" alt="AEVO" width="50" height="50">
