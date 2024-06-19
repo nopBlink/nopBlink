@@ -25,6 +25,9 @@ Hi! I'm a on-chain data and research analyst. I have worked on various projects 
 <a href="https://www.eigenlayer.xyz/" target="_blank">
   <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/EIGEN.png" alt="EIGEN" width="50" height="50">
 </a>
+<a href="https://fuel.network/">
+  <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/FUEL.png" alt="FUEL" width="50" height="50">
+</a>
 <a href="https://gameswift.io/" target="_blank">
   <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/GSWIFT.png" alt="GSWIFT" width="50" height="50">
 </a>
@@ -66,9 +69,6 @@ Hi! I'm a on-chain data and research analyst. I have worked on various projects 
 </a>
 <a href="https://www.availproject.org/">
   <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/AVAIL.png" alt="AVAIL" width="50" height="50">
-</a>
-<a href="https://fuel.network/">
-  <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/FUEL.png" alt="FUEL" width="50" height="50">
 </a>
 <a href="https://polyverse.polymerlabs.org/">
   <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/POLY.jpg" alt="Polymer" width="50" height="50">
