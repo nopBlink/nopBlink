@@ -1,6 +1,6 @@
 ### Hello there 👋 
 
-Hi! I'm a on-chain data and research analyst. I have worked on various projects within the blockchain space, applying my analytical skills to derive insights and contribute to the development of the ecosystem.
+As an On-Chain Data Analyst and Research Analyst, I collect, analyze, and interpret data on the blockchain network. I use advanced tools to evaluate transactions and trends, providing critical insights on blockchain projects. I research new technologies and emerging trends to develop strategies for adoption and growth. My goal is to combine on-chain data analysis with in-depth research to support strategic decisions and identify investment opportunities in the blockchain ecosystem.
 
 ### Featured Testnet/Mainnet Participations
 
@@ -94,6 +94,7 @@ Hi! I'm a on-chain data and research analyst. I have worked on various projects 
 <img src="https://img.shields.io/badge/nopblinked@protonmail.com-purple?style=flat-roundedrectangle&logo=Gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 
 <!--
+Hi! I'm a on-chain data and research analyst. I have worked on various projects within the blockchain space, applying my analytical skills to derive insights and contribute to the development of the ecosystem.
 
 - Python for data analysis
 - Data visualization (Tableau, Power BI)
