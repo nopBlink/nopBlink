@@ -83,7 +83,7 @@ Hi! I'm a on-chain data and research analyst. I have worked on various projects 
 ### Skills
 
 - On-chain data analysis
-- Machine Learning
+- Python and Machine Learning
 - SQL and databases
 - Blockchain and DLT technologies
 - VPS and Node run
