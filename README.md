@@ -83,7 +83,6 @@ As an On-Chain Data Analyst and Research Analyst, I collect, analyze, and interp
 ### Skills
 
 - On-chain data analysis
-- Python and Machine Learning
 - SQL and databases
 - Blockchain and DLT technologies
 - VPS and Node run
@@ -95,6 +94,7 @@ As an On-Chain Data Analyst and Research Analyst, I collect, analyze, and interp
 
 <!--
 
+- Python and Machine Learning
 - Python for data analysis
 - Data visualization (Tableau, Power BI)
 - Javascript, CSS & HTML basics
