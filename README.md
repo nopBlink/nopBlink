@@ -37,6 +37,9 @@ As an On-Chain Data Analyst and Research Analyst, I collect, analyze, and interp
 <a href="https://omni.network/" target="_blank">
   <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/OMNI.png" alt="Omni" width="50" height="50">
 </a>
+<a href="https://penumbra.zone/">
+  <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/UM.png" alt="Penumbra" width="50" height="50">
+</a>
 <a href="https://www.polyhedra.network/" target="_blank">
   <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/ZKJ.png" alt="Polyhedra" width="50" height="50">
 </a>
@@ -72,9 +75,6 @@ As an On-Chain Data Analyst and Research Analyst, I collect, analyze, and interp
 </a>
 <a href="https://polyverse.polymerlabs.org/">
   <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/POLY.jpg" alt="Polymer" width="50" height="50">
-</a>
-<a href="https://penumbra.zone/">
-  <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/UM.png" alt="Penumbra" width="50" height="50">
 </a>
 <a href="https://tea.xyz/">
   <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/tea.jpg" alt="tea" width="50" height="50">
