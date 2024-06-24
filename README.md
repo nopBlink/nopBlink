@@ -84,7 +84,7 @@ As an On-Chain Data Analyst and Research Analyst, I collect, analyze, and interp
 
 - On-chain data analysis
 - SQL and databases
-- Data visualization (Power BI)
+- Data visualization
 - Blockchain and DLT technologies
 - VPS and Node run
 
@@ -97,7 +97,7 @@ As an On-Chain Data Analyst and Research Analyst, I collect, analyze, and interp
 
 - Python and Machine Learning
 - Python for data analysis
-- Data visualization (Tableau) 
+- Data visualization (Tableau, Power BI) 
 - Javascript, CSS & HTML basics
 
 **nopBlink/nopBlink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
