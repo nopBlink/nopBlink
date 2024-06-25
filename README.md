@@ -73,7 +73,7 @@ As an On-Chain Data Analyst and Research Analyst, I collect, analyze, and interp
 <a href="https://www.availproject.org/">
   <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/AVAIL.png" alt="AVAIL" width="50" height="50">
 </a>
-<a href="https://polyverse.polymerlabs.org/">
+<a href="https://www.polymerlabs.org/">
   <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/POLY.jpg" alt="Polymer" width="50" height="50">
 </a>
 <a href="https://tea.xyz/">
