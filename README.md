@@ -74,7 +74,7 @@ As an On-Chain Data Analyst and Research Analyst, I collect, analyze, and interp
   <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/AVAIL.png" alt="AVAIL" width="50" height="50">
 </a>
 <a href="https://www.airchains.io/" target="_blank">
-  <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/Airchains.png" alt="Airchains" width="50" height="50">
+  <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/Airchains.jpg" alt="Airchains" width="50" height="50">
 </a>
 <a href="https://nexus.xyz/" target="_blank">
   <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/nexus.png" alt="Nexus" width="50" height="50">
