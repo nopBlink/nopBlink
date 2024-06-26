@@ -43,6 +43,9 @@ As an On-Chain Data Analyst and Research Analyst, I collect, analyze, and interp
 <a href="https://www.polyhedra.network/" target="_blank">
   <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/ZKJ.png" alt="Polyhedra" width="50" height="50">
 </a>
+<a href="https://nexus.xyz/" target="_blank">
+  <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/nexus.png" alt="Nexus" width="50" height="50">
+</a>
 <a href="https://www.sei.io/" target="_blank">
   <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/SEI.png" alt="SEI" width="50" height="50">
 </a>
@@ -75,9 +78,6 @@ As an On-Chain Data Analyst and Research Analyst, I collect, analyze, and interp
 </a>
 <a href="https://www.airchains.io/" target="_blank">
   <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/Airchains.jpg" alt="Airchains" width="50" height="50">
-</a>
-<a href="https://nexus.xyz/" target="_blank">
-  <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/nexus.png" alt="Nexus" width="50" height="50">
 </a>
 <a href="https://www.nubit.org/" target="_blank">
   <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/nubit.png" alt="nubit" width="50" height="50">
