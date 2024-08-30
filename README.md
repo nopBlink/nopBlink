@@ -2,7 +2,7 @@
 
 As an On-Chain Data Analyst and Research Analyst, I collect, analyze, and interpret data on the blockchain network. I use advanced tools to evaluate transactions and trends, providing critical insights on blockchain projects. I research new technologies and emerging trends to develop strategies for adoption and growth. My goal is to combine on-chain data analysis with in-depth research to support strategic decisions and identify investment opportunities in the blockchain ecosystem.
  
-### Featured Testnet/Mainnet Participations
+### Featured Testnet/Mainnet Participations 
 
 <a href="https://www.aevo.xyz/" target="_blank">
   <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/AEVO.png" alt="AEVO" width="50" height="50">
