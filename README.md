@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 On-Chain Data Analyst and Research Analyst. I research new technologies and emerging trends to develop strategies for adoption and growth. My goal is to combine on-chain data analysis with in-depth research to support strategic decisions and identify investment opportunities in the blockchain ecosystem. Development of tools to contribute to the network.
-
+ 
 ### Featured Testnet/Mainnet Participations 
 
 <a href="https://www.aevo.xyz/" target="_blank">
