@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-On-Chain Data Analyst and Research Analyst. I research new technologies and emerging trends to develop strategies for adoption and growth. My goal is to combine on-chain data analysis with in-depth research to support strategic decisions and identify investment opportunities in the blockchain ecosystem. Development of tools to contribute to the network.
+On-Chain Data Analyst and Research Analyst. My goal is to combine on-chain data analysis with in-depth research to support strategic decisions and identify investment opportunities in the blockchain ecosystem.
  
 ### Contributions
 
