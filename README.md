@@ -26,7 +26,6 @@ On-Chain Data Analyst and Research Analyst.
 ### Skills
 
 - On-chain data analysis
-- Data visualization
 - Web3 Deployment
 - Blockchain and DLT technologies
 - VPS and Node run
