@@ -1,6 +1,4 @@
 ### Hello there 👋
-
-Research Analyst.  
  
 ### Contributions
 
