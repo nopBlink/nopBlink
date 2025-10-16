@@ -30,10 +30,6 @@ On-Chain Data Analyst and Research Analyst.
 - Blockchain and DLT technologies
 - VPS and Node run
 
-### Contact
-
-<a href="mailto:nopblinked@protonmail.com" target="_blank"> 
-<img src="https://img.shields.io/badge/nopblinked@protonmail.com-purple?style=flat-roundedrectangle&logo=Gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 
 <!--
 
