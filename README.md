@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-On-Chain Data Analyst and Research Analyst.  
+Research Analyst.  
  
 ### Contributions
 
