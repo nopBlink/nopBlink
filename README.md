@@ -21,7 +21,7 @@
 
 ### Skills
 
-- Trends
+- DeFi Trends
 - On-chain data analysis
 - Web3 Deployment
 - Blockchain and DLT technologies
