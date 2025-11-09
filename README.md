@@ -1,5 +1,3 @@
-### Hello there 👋
- 
 ### Contributions
 
 <a href="https://aleo.org/">
