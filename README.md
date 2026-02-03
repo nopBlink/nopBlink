@@ -19,7 +19,7 @@
   <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/tea.jpg" alt="tea" width="50" height="50">
 </a>
 
-### Skills
+
 
 - DeFi Trends
 - On-chain data analysis
