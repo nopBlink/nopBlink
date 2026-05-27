@@ -19,7 +19,7 @@
   <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/tea.jpg" alt="tea" width="50" height="50">
 </a>
 <a href="https://celestia.org/">
-  <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/TIA.jpg" alt="TIA" width="50" height="50">
+  <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/TIA.png" alt="TIA" width="50" height="50">
 </a>
 
 ### Skills
