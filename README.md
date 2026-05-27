@@ -1,7 +1,7 @@
 ### Contributions
 
-<a href="https://aleo.org/">
-  <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/ALEO.png" alt="ALEO" width="50" height="50">
+<a href="https://arbitrum.io/">
+  <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/ARB.png" alt="ARB" width="50" height="50">
 </a>
 <a href="https://www.availproject.org/">
   <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/AVAIL.png" alt="AVAIL" width="50" height="50">
@@ -18,11 +18,14 @@
 <a href="https://tea.xyz/">
   <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/tea.jpg" alt="tea" width="50" height="50">
 </a>
+<a href="https://celestia.org/">
+  <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/TIA.jpg" alt="TIA" width="50" height="50">
+</a>
 
 ### Skills
 
-- DeFi Trends
-- On-chain data analysis
+- Whitehat
+- On-chain analyst
 - Web3 Deployment
 - Blockchain and DLT technologies
 - VPS and Node run
