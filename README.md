@@ -18,9 +18,7 @@
 <a href="https://www.polymerlabs.org/">
   <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/POLY.jpg" alt="Polymer" width="50" height="50">
 </a>
-<a href="https://tea.xyz/">
-  <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/tea.jpg" alt="tea" width="50" height="50">
-</a>
+
 
 
 ### Skills
