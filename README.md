@@ -23,7 +23,6 @@
 
 ### Skills
 
-- Whitehat
 - On-chain analyst
 - Web3 Deployment
 - Blockchain and DLT technologies
