@@ -8,12 +8,6 @@
 ██████████████████████████████████████████████████████████████████████
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1200&color=8BE9FD&center=true&vCenter=true&width=900&lines=Establishing+secure+connection...;Authentication+successful.;Welcome+back+researcher."/>
-
-</div>
-
----
-
 ```console
 researcher@github:~$ whoami
 
@@ -118,28 +112,6 @@ researcher@github:~$ cat philosophy.md
 
 ---
 
-```console
-researcher@github:~$ current-focus
-```
-
-```
-[✓] AI Security
-
-[✓] Agentic Systems
-
-[✓] LLM Security
-
-[✓] Web Application Security
-
-[✓] Threat Intelligence
-
-[✓] Security Automation
-
-[✓] Responsible Disclosure
-```
-
----
-
 
 ```console
 researcher@github:~$ social
@@ -153,8 +125,3 @@ Email       → nopblinked@protonmail.com
 
 ---
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=4500&pause=800&color=8BE9FD&center=true&width=850&lines=Researching+systems...;Understanding+complexity...;Building+better+security...;Session+active+▌"/>
-
-</div>
