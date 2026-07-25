@@ -1,50 +1,160 @@
-### Contributions
+<div align="center">
 
-<a href="https://arbitrum.io/">
-  <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/ARB.png" alt="ARB" width="50" height="50">
-</a>
-<a href="https://celestia.org/">
-  <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/TIA.png" alt="TIA" width="50" height="50">
-</a>
-<a href="https://www.availproject.org/">
-  <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/AVAIL.png" alt="AVAIL" width="50" height="50">
-</a>
-<a href="https://www.airchains.io/" target="_blank">
-  <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/Airchains.jpg" alt="Airchains" width="50" height="50">
-</a>
-<a href="https://www.nubit.org/" target="_blank">
-  <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/nubit.png" alt="nubit" width="50" height="50">
-</a>
-<a href="https://www.polymerlabs.org/">
-  <img src="https://github.com/nopBlink/nopBlink/blob/main/Icons/POLY.jpg" alt="Polymer" width="50" height="50">
-</a>
+```console
+██████████████████████████████████████████████████████████████████████
+
+ OpenSSH_9.8p1 GitHub Research Edition
+
+██████████████████████████████████████████████████████████████████████
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1200&color=8BE9FD&center=true&vCenter=true&width=900&lines=Establishing+secure+connection...;Authentication+successful.;Welcome+back+researcher."/>
+
+</div>
+
+---
+
+```console
+researcher@github:~$ whoami
+
+nopBlink
+
+Research Analyst
+White Hat Bug Hunter
+AI-Augmented Security Researcher
+```
+
+---
+
+```console
+researcher@github:~$ cat mission.txt
+
+Understand systems.
+
+Research responsibly.
+
+Automate intelligently.
+
+Improve security.
+
+Never stop learning.
+```
+
+---
+
+```console
+researcher@github:~$ tree
+
+.
+├── security-research/
+│   ├── web
+│   ├── vulnerabilities
+│   ├── disclosures
+│   └── writeups
+│
+├── ai/
+│   ├── automation
+│   ├── agents
+│   ├── workflows
+│   └── prompt-engineering
+│
+├── tools/
+│
+├── osint/
+│
+├── notes/
+│
+└── experiments/
+```
+
+---
+
+```console
+researcher@github:~$ skills --list
+```
+
+```
+Languages
+─────────
+Python
+Bash
+JavaScript
+TypeScript
+HTML
+
+Systems
+───────
+Linux
+WSL2
+Git
+Docker
+
+Security
+────────
+Foundry
+OWASP
+Nmap
+
+Blockchain
+───────
+Web3 deployment
+Blockchain and DLT technologies
+VPS and Node run
+```
+
+---
+
+```console
+researcher@github:~$ cat philosophy.md
+```
+
+> Technology deserves to be understood before it is trusted.
+>
+> Artificial Intelligence is integrated into my research workflow
+> to automate repetitive tasks, accelerate analysis and improve
+> productivity.
+>
+> Critical thinking, validation and final decisions remain human.
+
+---
+
+```console
+researcher@github:~$ current-focus
+```
+
+```
+[✓] AI Security
+
+[✓] Agentic Systems
+
+[✓] LLM Security
+
+[✓] Web Application Security
+
+[✓] Threat Intelligence
+
+[✓] Security Automation
+
+[✓] Responsible Disclosure
+```
+
+---
 
 
+```console
+researcher@github:~$ social
+```
 
-### Skills
+```
+GitHub      → github.com/nopblink
 
-- On-chain analyst
-- Web3 Deployment
-- Blockchain and DLT technologies
-- VPS and Node run
+Email       → nopblinked@protonmail.com
+```
 
+---
 
-<!--
+<div align="center">
 
-- Python and Machine Learning
-- Python for data analysis
-- Data visualization (Tableau, Power BI) 
-- Javascript, CSS & HTML basics
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=4500&pause=800&color=8BE9FD&center=true&width=850&lines=Researching+systems...;Understanding+complexity...;Building+better+security...;Session+active+▌"/>
 
-**nopBlink/nopBlink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
