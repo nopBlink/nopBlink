@@ -37,9 +37,7 @@ researcher@github:~$ tree
 ```
 ```console
 researcher@github:~$ social
-```
 
-```
 GitHub      → github.com/nopblink
 
 Email       → nopblinked@protonmail.com
