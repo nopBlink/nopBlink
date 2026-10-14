@@ -24,7 +24,10 @@ researcher@github:~$ tree
 │   ├── workflows
 │   └── prompt-engineering
 │
-├── tools/
+├── blockchain/
+│   ├── web3 deployment
+│   ├── blockchain and DLT technologies
+│   └── VPS and Node run
 │
 ├── osint/
 │
@@ -34,39 +37,6 @@ researcher@github:~$ tree
 ```
 
 ---
-
-```console
-researcher@github:~$ skills --list
-```
-
-```
-Languages
-─────────
-Python
-Bash
-JavaScript
-TypeScript
-HTML
-
-Systems
-───────
-Linux
-WSL2
-Git
-Docker
-
-Security
-────────
-Foundry
-OWASP
-Nmap
-
-Blockchain
-───────
-Web3 deployment
-Blockchain and DLT technologies
-VPS and Node run
-```
 
 ```console
 researcher@github:~$ social
