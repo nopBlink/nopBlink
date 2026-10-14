@@ -1,5 +1,3 @@
-<div align="center">
-
 ```console
 researcher@github:~$ whoami
 
