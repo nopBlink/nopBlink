@@ -35,9 +35,6 @@ researcher@github:~$ tree
 │
 └── experiments/
 ```
-
----
-
 ```console
 researcher@github:~$ social
 ```
