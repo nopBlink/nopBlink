@@ -11,7 +11,6 @@ AI-Augmented Security Researcher
 ```console
 researcher@github:~$ tree
 
-.
 ├── security-research/
 │   ├── web
 │   ├── vulnerabilities
